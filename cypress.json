@@ -1,0 +1,7 @@
+{
+    "baseUrl" : "https://gallery-app.vivifyideas.com/",
+    "env" : {
+        "userName" : "andrija123@gmail.com",
+        "password" : "sifra123"
+    }
+}
